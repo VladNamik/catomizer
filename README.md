@@ -1,2 +1,2 @@
-# catomizer
-Words catomizer. Enjoy
+# Catomizer
+Words catomizer. The functionality you never wanted but always needed.
